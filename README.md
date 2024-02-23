@@ -1,10 +1,10 @@
- #Dashboard em PowerBI de Vítimas de Acidentes de Trânsito
+ # Dashboard em PowerBI de Vítimas de Acidentes de Trânsito
 
->##Este trabalho consistia na construção de uma solução de BI (Inteligência de Negócio) a partir de dados coletados
+>## Este trabalho consistia na construção de uma solução de BI (Inteligência de Negócio) a partir de dados coletados
 de uma fonte de dados abertos (open data). A fonte de dados é uma amostra dos conjuntos de dados de acidentes de
 trânsito.</p>
 
->###Requisitos:
+>### Requisitos:
 
 O dashboard deve conter as seguintes visualizações:
 - Tipo de Acidente (barras horizontais)
@@ -19,6 +19,6 @@ Os filtros (segmentação dos dados) no dashboard, na forma de lista suspensa, d
 - Por Mês
 - Por Dia da Semana
 
->###Resultado final:
+>### Resultado final:
 
 ![My Image](dashboard.png)
